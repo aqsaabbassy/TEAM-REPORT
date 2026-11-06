@@ -4,7 +4,7 @@
 
 body{
     margin: 0;
-    background-color: #D9A9AD;
+    background-color: #f9edef;
 }
 nav{
     position: fixed;
@@ -14,7 +14,7 @@ nav{
     align-items: center;
     padding: 18px 50px;
     width: 100%;
-    background-color: #f9edef;
+    background-color:   #D9A9AD;
     color: #FFF5E8;   
 
 }
