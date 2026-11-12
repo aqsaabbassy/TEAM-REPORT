@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: #f9edef;
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    padding: 18px 50px;
+    width: 100%;
+    background-color:   #D9A9AD;
+    color: #FFF5E8;   
+
+}
+#logo{
+    color: #783c50;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bolder;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    margin: 0 auto;
+}
+li{
+   font-size: 18px;
+   color: #3D1825;
+   font-weight: bold;
+}
+li:hover{
+    color: lightpink;
+}
+.fa-cart-shopping{
+    font-size: 25px;
+    color: #783c50;
+    margin-right: 8px;
+}
+.fa-magnifying-glass{
+     font-size: 25px;
+    color: #783c50;
+}

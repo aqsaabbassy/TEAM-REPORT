@@ -1,0 +1,21 @@
+ footer {
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(103, 30, 54);
+    color: white;
+    padding: 30px;
+    width: 100%;
+}
+
+.group h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    color: #E8CFA5;
+    margin-bottom: 12px;
+}
+.group p {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: #F2E8E2;
+    margin-bottom: 10px;
+}
